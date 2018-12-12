@@ -82,9 +82,9 @@ body {
 }
 
 @keyframes Teeter-Totter {
-  0% {transform: rotateZ(10deg) translateX(-120px);}
-  50% {transform: rotateZ(-10deg) translateX(120px);}
-  100% {transform: rotateZ(10deg) translateX(-120px);}
+  0% {transform: rotateZ(30deg) translateX(-220px);}
+  50% {transform: rotateZ(-30deg) translateX(220px);}
+  100% {transform: rotateZ(30deg) translateX(-220px);}
 }
 
 @keyframes blast {
